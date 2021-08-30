@@ -68,4 +68,4 @@ const myname = prompt("Enter your name:")
 let binary=vrc.StrToBinary("asad");
 let paddeddata=vrc.checkparity(binary);
 vrc.checkdata(paddeddata);
-
+//hello
